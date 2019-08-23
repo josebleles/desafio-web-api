@@ -1,0 +1,15 @@
+{
+  "name": "desafio-aula1",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts":{
+    "nodemon":"nodemon src/index"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
